@@ -1,0 +1,6 @@
+github.com/D3Ext/maldev v0.1.3 h1:cn4TGdHpdUmjpNhLJ2/lpgU1TkJrEBVJGWcdgm7RQSg=
+github.com/D3Ext/maldev v0.1.3/go.mod h1:+ZMVJlimO5ROIg34U/QkhmIQa0dU7rzxbhkFMH/DADQ=
+github.com/mitchellh/go-ps v1.0.0 h1:i6ampVEEF4wQFF+bkYfwYgY+F/uYJDktmvLPf7qIgjc=
+github.com/mitchellh/go-ps v1.0.0/go.mod h1:J4lOc8z8yJs6vUwklHw2XEIiT4z4C40KtWVN3nvg8Pg=
+golang.org/x/sys v0.8.0 h1:EBmGv8NaZBZTWvrbjNoL6HVt+IVy3QDQpJs7VRIw3tU=
+golang.org/x/sys v0.8.0/go.mod h1:oPkhp1MJrh7nUepCBck5+mAzfO9JrbApNNgaTdGDITg=
